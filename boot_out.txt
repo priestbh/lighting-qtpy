@@ -1,0 +1,3 @@
+Adafruit CircuitPython 8.0.5 on 2023-03-31; Adafruit QT Py ESP32S2 with ESP32S2
+Board ID:adafruit_qtpy_esp32s2
+UID:85FC97BA1247
